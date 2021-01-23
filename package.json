@@ -1,6 +1,6 @@
 {
   "name": "async-ask",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "simple prompt questioning for beginners",
   "main": "dist/index.js",
   "files": [
