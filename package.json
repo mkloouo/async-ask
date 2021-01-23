@@ -1,8 +1,11 @@
 {
   "name": "async-ask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple prompt questioning for beginners",
-  "files": ["dist/index.d.ts", "dist/index.js"],
+  "files": [
+    "dist/index.d.ts",
+    "dist/index.js"
+  ],
   "scripts": {
     "build": "tsc --build tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
