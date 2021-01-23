@@ -1,6 +1,6 @@
 {
   "name": "async-ask",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple prompt questioning for beginners",
   "files": [
     "dist/index.d.ts",
