@@ -14,7 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/mkloouo/async-ask.git"
   },
-  "keywords": [],
+  "keywords": [
+    "readline",
+    "ask",
+    "promise",
+    "async",
+    "prompt",
+    "simple prompt",
+    "node.js",
+    "node",
+    "read input",
+    "input"
+  ],
   "author": {
     "name": "Mykola Odnosumov",
     "email": "mkloouo@gmail.com",
